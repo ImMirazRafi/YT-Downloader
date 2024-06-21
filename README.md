@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video Downloader --Created by Miraz Rafi
 
 A Python script to download YouTube videos or audio in MP4 or MP3 formats. Users can input multiple video links, specify file names, and choose the desired format. 
 
@@ -44,3 +44,14 @@ Downloading 'Example Video 1' as 'abcde.mp3'...
 Downloading 'Example Video 2' as 'Example Video 2.mp3'...
 'Example Video 2' downloaded successfully as 'Example Video 2.mp3'!
 ```
+
+## Connect with me
+
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 300px; margin: 0 auto;">
+  <a href="https://www.facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://image.flaticon.com/icons/svg/733/733547.svg" alt="Facebook" style="width: 40px; height: 40px;">
+  </a>
+  <a href="https://www.instagram.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://image.flaticon.com/icons/svg/733/733558.svg" alt="Instagram" style="width: 40px; height: 40px;">
+  </a>
+</div>
