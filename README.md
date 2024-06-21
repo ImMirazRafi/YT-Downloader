@@ -50,11 +50,7 @@ Downloading 'Example Video 2' as 'Example Video 2.mp3'...
 
 ## Connect with me
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 300px; margin: 0 auto;">
-  <a href="https://www.facebook.com/miraz.rafi.54" target="_blank" style="text-decoration: none;">
-    <img src="facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
-  </a>
-  <a href="https://www.instagram.com/iammirazrafi/" target="_blank" style="text-decoration: none;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 300px; margin: 0 auto;">Facebook: <a href="https://www.facebook.com/miraz.rafi.54" target="_blank" style="text-decoration: none;"><img src="facebook.png" alt="Facebook" style="width: 40px; height: 40px;"></a>Instagram: <a href="https://www.instagram.com/iammirazrafi/" target="_blank" style="text-decoration: none;">
     <img src="instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
   </a>
 </div>
