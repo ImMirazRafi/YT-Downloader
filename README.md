@@ -48,10 +48,10 @@ Downloading 'Example Video 2' as 'Example Video 2.mp3'...
 ## Connect with me
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 300px; margin: 0 auto;">
-  <a href="https://www.facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
-    <img src="https://image.flaticon.com/icons/svg/733/733547.svg" alt="Facebook" style="width: 40px; height: 40px;">
+  <a href="[https://www.facebook.com/yourprofile](https://www.facebook.com/miraz.rafi.54)" target="_blank" style="text-decoration: none;">
+    <img src="![image](https://github.com/ImMirazRafi/YT-Downloader/assets/146925348/373458c2-ef45-4ee1-bc6b-f5b6b7266606)" alt="Facebook" style="width: 40px; height: 40px;">
   </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank" style="text-decoration: none;">
-    <img src="https://image.flaticon.com/icons/svg/733/733558.svg" alt="Instagram" style="width: 40px; height: 40px;">
+  <a href="https://www.instagram.com/iammirazrafi/" target="_blank" style="text-decoration: none;">
+    <img src="![image](https://github.com/ImMirazRafi/YT-Downloader/assets/146925348/c161fee6-f448-419e-91af-3c31a0004ecf)" alt="Instagram" style="width: 40px; height: 40px;">
   </a>
 </div>
