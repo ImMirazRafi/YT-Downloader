@@ -44,14 +44,17 @@ Downloading 'Example Video 1' as 'abcde.mp3'...
 Downloading 'Example Video 2' as 'Example Video 2.mp3'...
 'Example Video 2' downloaded successfully as 'Example Video 2.mp3'!
 ```
+## Attribution
+*Icons provided by "<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Stockio - Flaticon</a>"
+
 
 ## Connect with me
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%; max-width: 300px; margin: 0 auto;">
-  <a href="[https://www.facebook.com/yourprofile](https://www.facebook.com/miraz.rafi.54)" target="_blank" style="text-decoration: none;">
-    <img src="![image](https://github.com/ImMirazRafi/YT-Downloader/assets/146925348/373458c2-ef45-4ee1-bc6b-f5b6b7266606)" alt="Facebook" style="width: 40px; height: 40px;">
+  <a href="https://www.facebook.com/miraz.rafi.54" target="_blank" style="text-decoration: none;">
+    <img src="facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
   </a>
   <a href="https://www.instagram.com/iammirazrafi/" target="_blank" style="text-decoration: none;">
-    <img src="![image](https://github.com/ImMirazRafi/YT-Downloader/assets/146925348/c161fee6-f448-419e-91af-3c31a0004ecf)" alt="Instagram" style="width: 40px; height: 40px;">
+    <img src="instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
   </a>
 </div>
