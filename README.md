@@ -45,7 +45,7 @@ Downloading 'Example Video 2' as 'Example Video 2.mp3'...
 'Example Video 2' downloaded successfully as 'Example Video 2.mp3'!
 ```
 ## Attribution
-*Icons provided by "<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Stockio - Flaticon</a>" & "<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Hight Quality Icons - Flaticon</a>"
+*Icons provided by "<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Pixel perfect - Flaticon</a>" & "<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Laisa Islam Ani - Flaticon</a>"
 
 
 ## Connect with me
